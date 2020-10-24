@@ -1,1 +1,1 @@
-# cbir_topic_model
+# Content Based Image Retrieval
