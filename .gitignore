@@ -1,2 +1,3 @@
 *.pkl
+*.jl
 *.ipynb_checkpoints
